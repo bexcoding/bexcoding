@@ -7,10 +7,12 @@ I am currently working on the following:
 | Repo | Description | TODO |
 | --- | --- | --- |
 | static-website-practice | Practice repo for basic html/css websites. | Finish planets website. |
-| | | Add description of planets website to static websites README |
+| | | Add description of planets website to static website's README |
 
 ## Currently Learning
 
 - JavaScript
 - JavaScript DOM for manipulating websites
 - Refreshing my HTML/CSS for creating websites
+
+## Future Projects
