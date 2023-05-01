@@ -1,6 +1,8 @@
 ## About Me
 
-Welcome to my GitHub profile. My name is Beck and I am a software developer. I share most of my code here on GitHub for all to see and to show my improvement over time. I am looking to collaborate on any programming project that I can and I am also interested in work opportunities. Unfortunately, while I am finishing up my current contract, I only have 10-15 hours per week to put into projects or software development. After my contract, I will be looking for full time work.
+Welcome to my GitHub profile. My name is Beck and I am a software developer. I share most of my code here on GitHub for all to see and to show my improvement over time. I am looking to collaborate on any programming project that I can and I am also interested in work opportunities. Unfortunately, while I am finishing up my current contract, I only have 10-15 hours per week to put into projects or software development. After my contract, I will be looking for full time work. If you are interested in viewing my portfolio website to find out more about me or get a copy of my most recent resume, click on the link below under "portfolio".
+
+Portfolio: https://bexcoding.github.io/
 
 Contact: beckhv2@gmail.com
 
