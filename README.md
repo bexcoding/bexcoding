@@ -20,6 +20,9 @@ I am currently working on the following:
 | --- | --- | --- |
 | static-website-practice | Practice repo for basic html/css websites. | Finish planets website. |
 | | | Add description of planets website to static website's README |
+| bexcoding.github.io | My portfolio website hosted through GitHub | Transfer information from old website to new website. | 
+| | | Add main css styling. |
+| | | Add folder for my pictures and upload them. |
 
 ## Future Projects
 
