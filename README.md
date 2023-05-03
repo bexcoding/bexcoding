@@ -22,9 +22,13 @@ I am currently working on the following:
 | --- | --- | --- |
 | static-website-practice | Practice repo for basic html/css websites. | Finish planets website. |
 | | | Add description of planets website to static website's README |
-| bexcoding.github.io | My portfolio website hosted through GitHub | Transfer information from old website to new website. | 
-| | | Add main css styling. |
-| | | Add folder for my pictures and upload them. |
+| bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
+| | | Add resume components. |
+| | | Add content to resume page. |
+| | | Add content to live projects page. |
+| | | Simplify dropdown menu when pages are complete. |
+| | | Merge about me and computer science pages? |
+| | | Add Linkedin icon when that site is up and running. |
 
 ## Future Projects
 
