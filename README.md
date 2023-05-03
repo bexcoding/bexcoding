@@ -24,7 +24,7 @@ I am currently working on the following:
 | | | Add description of planets website to static website's README |
 | bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
 | | | Add resume components. |
-| | | Add content to resume page. |
+| | | Add content to nursing page. |
 | | | Add content to live projects page. |
 | | | Simplify dropdown menu when pages are complete. |
 | | | Merge about me and computer science pages? |
