@@ -13,6 +13,7 @@ Languages: Python, HTML/CSS, JavaScript
 - JavaScript
 - JavaScript DOM for manipulating websites
 - Refreshing my HTML/CSS for creating websites
+- Working through freeCodeCamp courses
 
 ## Current Projects
 
@@ -24,10 +25,7 @@ I am currently working on the following:
 | | | Add description of planets website to static website's README |
 | bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
 | | | Add resume components. |
-| | | Add content to nursing page. |
 | | | Add content to live projects page. |
-| | | Simplify dropdown menu when pages are complete. |
-| | | Merge about me and computer science pages? |
 | | | Add Linkedin icon when that site is up and running. |
 
 ## Future Projects
