@@ -28,7 +28,7 @@ I am currently working on the following:
 | | | Write section about what I was working on in April |
 | | | Add content to live projects page. |
 | | | Add Linkedin icon when that site is up and running. |
-| color-palette-generator | Webpage designed to make random color palettes. | Make text responsive to dark color squares. |
+| color-palette-generator | Webpage designed to make random color palettes. | Start version 2 of project. | 
 
 ## Future Projects
 
