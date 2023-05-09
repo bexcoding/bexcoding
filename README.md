@@ -25,7 +25,6 @@ I am currently working on the following:
 | | | Add description of planets website to static website's README |
 | bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
 | | | Add resume components. |
-| | | Write section about what I was working on in April |
 | | | Add Linkedin icon when that site is up and running. |
 
 ## Future Projects
