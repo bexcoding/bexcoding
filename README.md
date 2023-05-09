@@ -26,9 +26,7 @@ I am currently working on the following:
 | bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
 | | | Add resume components. |
 | | | Write section about what I was working on in April |
-| | | Add content to live projects page. |
 | | | Add Linkedin icon when that site is up and running. |
-| color-palette-generator | Webpage designed to make random color palettes. | Start version 2 of project. | 
 
 ## Future Projects
 
