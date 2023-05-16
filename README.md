@@ -13,7 +13,7 @@ Languages: Python, HTML/CSS, JavaScript
 - JavaScript
 - JavaScript DOM for manipulating websites
 - Refreshing my HTML/CSS for creating websites
-- Working through freeCodeCamp courses
+- Working through Codecademy courses
 
 ## Current Projects
 
@@ -26,6 +26,10 @@ I am currently working on the following:
 | bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
 | | | Add resume components. |
 | | | Add Linkedin icon when that site is up and running. |
+| color-picker | Tool for picking custom colors. | Create layout of page. |
+| | | Create color selection area and slider. |
+| | | Create dropdown button with options. |
+| | | Add logic to save colors. | 
 
 ## Future Projects
 
