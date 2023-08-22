@@ -26,9 +26,6 @@ I am currently working on the following:
 | bexcoding.github.io | My portfolio website hosted through GitHub | Complete main css styling. |
 | | | Add resume components. |
 | | | Add Linkedin icon when that site is up and running. |
-| color-picker | Tool for picking custom colors. | Comment on code. | 
-| | | Add color picker to portfolio site. |
-| | | Update color picker readme |
 
 ## Future Projects
 
