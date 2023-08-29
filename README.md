@@ -19,7 +19,8 @@ I am currently working on the following:
 | Repo | Description | TODO |
 | --- | --- | --- |
 | static-website-practice | Practice repo for basic html/css websites. | Finish planets website. |
-| | | Add description of planets website to static website's README | Add resume components. |
+| | | Add description of planets website to static website's README |
+| bexcoding.github.io | My portfolio website hosted through GitHub | Add resume components. |
 | | | Add Linkedin icon when that site is up and running. |
 
 ## Future Projects
