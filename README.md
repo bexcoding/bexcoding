@@ -20,8 +20,8 @@ I am currently working on the following:
 | --- | --- | --- |
 | bexcoding.github.io | My portfolio website hosted through GitHub | Add resume components. |
 | | | Add Linkedin icon when that site is up and running. |
-| minesweeper | Classic minesweeper for browser | Create initial readme and necessary files | 
-| | | Create display area |
+| minesweeper | Classic minesweeper for browser | add function to number safe spaces |
+| | | Create button overlay to hide bombs |
 | | | Create menu for game |
 
 ## Future Projects
