@@ -20,9 +20,6 @@ I am currently working on the following:
 | --- | --- | --- |
 | bexcoding.github.io | My portfolio website hosted through GitHub | Add resume components. |
 | | | Add Linkedin icon when that site is up and running. |
-| medwordle | wordle with medical terms | find terms for game |
-| | | start basic layout |
-| | | create game logic | 
 
 ## Future Projects
 
